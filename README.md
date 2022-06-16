@@ -1,6 +1,7 @@
 # Spotify Project M Code
 
-**INTRO**
+**INTRO:**
+
 This is the M code used to create dimension and fact tables for data modeling in a PowerBI project.
 
 **INCLUDES:**
